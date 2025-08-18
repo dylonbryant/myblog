@@ -22,5 +22,20 @@
       <guid>http://localhost:53293/myblog/posts/test-post.md/</guid>
       <description>&lt;p&gt;afjkdahfnd&lt;/p&gt;</description>
     </item>
+    <item>
+      <title></title>
+      <link>http://localhost:53293/myblog/posts/automating-my-blog-deployment-with-powershell-and-shortcuts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:53293/myblog/posts/automating-my-blog-deployment-with-powershell-and-shortcuts/</guid>
+      <description>&lt;p&gt;Today I set up a simple automation for publishing my Obsidian-based blog. Instead of manually typing out Git commands every time, I now just double-click a desktop shortcut and everything is pushed for me. Here’s a breakdown of what I did step by step.&lt;/p&gt;
+&lt;h2 id=&#34;1-the-goal&#34;&gt;1. The Goal&lt;/h2&gt;
+&lt;p&gt;I wanted a &lt;strong&gt;one-click solution&lt;/strong&gt; to publish my notes. The workflow was:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Write notes in Obsidian.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Run a script that commits changes and pushes to GitHub.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

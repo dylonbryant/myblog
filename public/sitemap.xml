@@ -20,6 +20,8 @@
     <loc>http://localhost:53293/myblog/posts/test-post.md/</loc>
     <lastmod>2025-08-16T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:53293/myblog/posts/automating-my-blog-deployment-with-powershell-and-shortcuts/</loc>
+  </url><url>
     <loc>http://localhost:53293/myblog/categories/</loc>
   </url>
 </urlset>
