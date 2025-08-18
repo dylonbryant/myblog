@@ -1,3 +1,4 @@
-[submodule "myblog"]
-    path = myblog
-    url = https://github.com/dylonbryant/myblog.git
+[submodule "themes/PaperMod"]
+    path = themes/PaperMod
+    url  = https://github.com/adityatelange/hugo-PaperMod
+
