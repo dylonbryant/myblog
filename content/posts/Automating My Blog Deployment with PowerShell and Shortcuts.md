@@ -1,12 +1,10 @@
 ---
-
-title: Automating my Blog Deployment with Powershell and Shortcuts"
-
+title: "Automating My Blog Deployment with PowerShell and Shortcuts"
 date: 2025-08-18
-
 draft: false
-
 slug: automating-my-blog-deployment-with-powershell-and-shortcuts
+tags: ["hugo", "obsidian", "github-pages", "powershell"]
+---
 
 Today I set up a simple automation for publishing my Obsidian-based blog. Instead of manually typing out Git commands every time, I now just double-click a desktop shortcut and everything is pushed for me. Here’s a breakdown of what I did step by step.
 
